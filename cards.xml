@@ -1,0 +1,17 @@
+<CreditCardDataBase>
+  <creditCards>
+    <CreditCard>
+      <creditCardCodes>
+        <string>31450 73661 53921 1</string>
+        <string>315 261153013 6 497</string>
+        <string>3152161 3 7 1490365</string>
+        <string>3 517614323 159 610</string>
+      </creditCardCodes>
+    </CreditCard>
+    <CreditCard>
+      <creditCardCodes>
+        <string>31350 78661 23924 1</string>
+      </creditCardCodes>
+    </CreditCard>
+  </creditCards>
+</CreditCardDataBase>

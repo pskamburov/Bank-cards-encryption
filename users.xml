@@ -1,0 +1,13 @@
+<UserDataBase>
+  <users>
+    <User>
+      <username>Admin</username>
+      <password>12345</password>
+      <access>
+        <administrator>true</administrator>
+        <ableToEncrypt>true</ableToEncrypt>
+        <ableToRequestCard>true</ableToRequestCard>
+      </access>
+    </User>
+  </users>
+</UserDataBase>
